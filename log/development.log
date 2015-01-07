@@ -1,0 +1,95 @@
+[Wed Jan  7 11:39:49 2015] [debug] Your secret passphrase needs to be changed!!!
+[Wed Jan  7 11:39:49 2015] [debug] GET "/".
+[Wed Jan  7 11:39:49 2015] [debug] Routing to controller "Uranai::Web::Controller::Example" and action "welcome".
+[Wed Jan  7 11:39:49 2015] [debug] Rendering template "example/welcome.html.ep".
+[Wed Jan  7 11:39:49 2015] [debug] Rendering template "layouts/default.html.ep".
+[Wed Jan  7 11:39:49 2015] [debug] 200 OK (0.017642s, 56.683/s).
+[Wed Jan  7 11:40:02 2015] [debug] GET "/index".
+[Wed Jan  7 11:40:02 2015] [debug] Template "not_found.development.html.ep" not found.
+[Wed Jan  7 11:40:02 2015] [debug] Template "not_found.html.ep" not found.
+[Wed Jan  7 11:40:02 2015] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Wed Jan  7 11:40:02 2015] [debug] Rendering inline template "e9390393841cf5d4025baa2848b76dd8".
+[Wed Jan  7 11:40:02 2015] [debug] 404 Not Found (0.033631s, 29.734/s).
+[Wed Jan  7 11:40:49 2015] [debug] Your secret passphrase needs to be changed!!!
+[Wed Jan  7 11:40:49 2015] [debug] GET "/".
+[Wed Jan  7 11:40:49 2015] [debug] Class "Uranai::Web::Controller::Root" is not a controller.
+[Wed Jan  7 11:40:49 2015] [debug] Rendering template "root/index.html.ep".
+[Wed Jan  7 11:40:49 2015] [debug] 200 OK (0.018809s, 53.166/s).
+[Wed Jan  7 11:40:52 2015] [debug] POST "/result".
+[Wed Jan  7 11:40:52 2015] [debug] Template "not_found.development.html.ep" not found.
+[Wed Jan  7 11:40:52 2015] [debug] Template "not_found.html.ep" not found.
+[Wed Jan  7 11:40:52 2015] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Wed Jan  7 11:40:52 2015] [debug] Rendering inline template "e9390393841cf5d4025baa2848b76dd8".
+[Wed Jan  7 11:40:53 2015] [debug] 404 Not Found (0.064099s, 15.601/s).
+[Wed Jan  7 11:42:35 2015] [debug] Your secret passphrase needs to be changed!!!
+[Wed Jan  7 11:42:35 2015] [debug] POST "/result".
+[Wed Jan  7 11:42:35 2015] [debug] Template "not_found.development.html.ep" not found.
+[Wed Jan  7 11:42:35 2015] [debug] Template "not_found.html.ep" not found.
+[Wed Jan  7 11:42:35 2015] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Wed Jan  7 11:42:35 2015] [debug] Rendering inline template "e9390393841cf5d4025baa2848b76dd8".
+[Wed Jan  7 11:42:35 2015] [debug] 404 Not Found (0.044720s, 22.361/s).
+[Wed Jan  7 11:43:20 2015] [debug] Your secret passphrase needs to be changed!!!
+[Wed Jan  7 11:43:20 2015] [debug] POST "/result".
+[Wed Jan  7 11:43:20 2015] [debug] Template "not_found.development.html.ep" not found.
+[Wed Jan  7 11:43:20 2015] [debug] Template "not_found.html.ep" not found.
+[Wed Jan  7 11:43:20 2015] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Wed Jan  7 11:43:20 2015] [debug] Rendering inline template "e9390393841cf5d4025baa2848b76dd8".
+[Wed Jan  7 11:43:20 2015] [debug] 404 Not Found (0.069390s, 14.411/s).
+[Wed Jan  7 11:43:24 2015] [debug] POST "/result".
+[Wed Jan  7 11:43:24 2015] [debug] Template "not_found.development.html.ep" not found.
+[Wed Jan  7 11:43:24 2015] [debug] Template "not_found.html.ep" not found.
+[Wed Jan  7 11:43:24 2015] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Wed Jan  7 11:43:24 2015] [debug] Rendering cached inline template "e9390393841cf5d4025baa2848b76dd8".
+[Wed Jan  7 11:43:24 2015] [debug] 404 Not Found (0.012227s, 81.786/s).
+[Wed Jan  7 11:43:44 2015] [debug] Your secret passphrase needs to be changed!!!
+[Wed Jan  7 11:43:44 2015] [debug] POST "/result".
+[Wed Jan  7 11:43:44 2015] [debug] Class "Uranai::Web::Controller::Root" is not a controller.
+[Wed Jan  7 11:43:44 2015] [debug] Rendering template "root/result.html.ep".
+[Wed Jan  7 11:43:44 2015] [error] Global symbol "$message" requires explicit package name at template root/result.html.ep line 1, <DATA> line 231.
+1: <%= $message %>
+
+[Wed Jan  7 11:43:44 2015] [debug] Template "exception.development.html.ep" not found.
+[Wed Jan  7 11:43:44 2015] [debug] Template "exception.html.ep" not found.
+[Wed Jan  7 11:43:44 2015] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Wed Jan  7 11:43:44 2015] [debug] Rendering inline template "e9390393841cf5d4025baa2848b76dd8".
+[Wed Jan  7 11:43:44 2015] [debug] 500 Internal Server Error (0.053682s, 18.628/s).
+[Wed Jan  7 11:44:26 2015] [debug] Your secret passphrase needs to be changed!!!
+[Wed Jan  7 11:44:26 2015] [debug] POST "/result".
+[Wed Jan  7 11:44:26 2015] [debug] Class "Uranai::Web::Controller::Root" is not a controller.
+[Wed Jan  7 11:44:26 2015] [debug] Rendering template "root/result.html.ep".
+[Wed Jan  7 11:44:26 2015] [debug] 200 OK (0.002166s, 461.681/s).
+[Wed Jan  7 11:46:08 2015] [debug] Your secret passphrase needs to be changed!!!
+[Wed Jan  7 11:46:08 2015] [debug] POST "/result".
+[Wed Jan  7 11:46:08 2015] [debug] Class "Uranai::Web::Controller::Root" is not a controller.
+[Wed Jan  7 11:46:08 2015] [debug] Rendering template "root/result.html.ep".
+[Wed Jan  7 11:46:08 2015] [error] Global symbol "$message" requires explicit package name at template root/result.html.ep line 1, <DATA> line 231.
+1: <%= $message %>
+
+[Wed Jan  7 11:46:08 2015] [debug] Template "exception.development.html.ep" not found.
+[Wed Jan  7 11:46:08 2015] [debug] Template "exception.html.ep" not found.
+[Wed Jan  7 11:46:08 2015] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Wed Jan  7 11:46:08 2015] [debug] Rendering inline template "e9390393841cf5d4025baa2848b76dd8".
+[Wed Jan  7 11:46:08 2015] [debug] 500 Internal Server Error (0.084844s, 11.786/s).
+[Wed Jan  7 11:46:48 2015] [debug] Your secret passphrase needs to be changed!!!
+[Wed Jan  7 11:46:48 2015] [debug] POST "/result".
+[Wed Jan  7 11:46:48 2015] [debug] Class "Uranai::Web::Controller::Root" is not a controller.
+[Wed Jan  7 11:46:48 2015] [debug] Rendering template "root/result.html.ep".
+[Wed Jan  7 11:46:48 2015] [error] Global symbol "$message" requires explicit package name at template root/result.html.ep line 1, <DATA> line 231.
+1: <%= $message %>
+
+[Wed Jan  7 11:46:48 2015] [debug] Template "exception.development.html.ep" not found.
+[Wed Jan  7 11:46:48 2015] [debug] Template "exception.html.ep" not found.
+[Wed Jan  7 11:46:48 2015] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Wed Jan  7 11:46:48 2015] [debug] Rendering inline template "e9390393841cf5d4025baa2848b76dd8".
+[Wed Jan  7 11:46:48 2015] [debug] 500 Internal Server Error (0.101783s, 9.825/s).
+[Wed Jan  7 11:46:53 2015] [debug] POST "/result".
+[Wed Jan  7 11:46:53 2015] [debug] Class "Uranai::Web::Controller::Root" is not a controller.
+[Wed Jan  7 11:46:53 2015] [debug] Rendering template "root/result.html.ep".
+[Wed Jan  7 11:46:53 2015] [error] Global symbol "$message" requires explicit package name at template root/result.html.ep line 1, <DATA> line 231.
+1: <%= $message %>
+
+[Wed Jan  7 11:46:53 2015] [debug] Template "exception.development.html.ep" not found.
+[Wed Jan  7 11:46:53 2015] [debug] Template "exception.html.ep" not found.
+[Wed Jan  7 11:46:53 2015] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Wed Jan  7 11:46:53 2015] [debug] Rendering cached inline template "e9390393841cf5d4025baa2848b76dd8".
+[Wed Jan  7 11:46:53 2015] [debug] 500 Internal Server Error (0.009662s, 103.498/s).

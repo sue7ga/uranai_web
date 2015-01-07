@@ -1,0 +1,6 @@
+package Uranai::Model::Uranai;
+
+
+
+
+__PACKAGE__->meta->make_immutable();

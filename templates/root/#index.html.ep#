@@ -1,0 +1,7 @@
+<form action="/result" method="post" style="border:1px solid gray">
+  <b>Form</b><br>
+  <b>Name:</b> <%= text_field 'name' %><br>
+  <b>Message:</b><br>
+  <%= text_area 'message', style => "width:400px; height:100px" %><br>
+  <input type="submit" value="Post">
+</form>
